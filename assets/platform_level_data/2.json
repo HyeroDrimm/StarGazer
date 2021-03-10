@@ -1,0 +1,498 @@
+{
+  "platform": [
+    {
+      "x_pos": -100,
+      "y_pos": 0,
+      "x_size": 100,
+      "y_size": 1080,
+      "color": [50, 50, 50],
+      "layer": 1
+    },
+    {
+      "x_pos": 1920,
+      "y_pos": 0,
+      "x_size": 100,
+      "y_size": 1080,
+      "color": [50, 50, 50],
+      "layer": 1
+    },
+    {
+      "x_pos": 935,
+      "y_pos": 200,
+      "x_size": 50,
+      "y_size": 900,
+      "color": [50, 50, 50],
+      "layer": 1
+    },
+    {
+      "x_pos": 0,
+      "y_pos": 1030,
+      "x_size": 1920,
+      "y_size": 50,
+      "color": [50, 50, 50],
+      "layer": 1
+    },
+    {
+      "x_pos": 80,
+      "y_pos": 800,
+      "x_size": 1785,
+      "y_size": 50,
+      "color": [50, 50, 50],
+      "layer": 1
+    },
+    {
+      "x_pos": 0,
+      "y_pos": 570,
+      "x_size": 850,
+      "y_size": 50,
+      "color": [50, 50, 50],
+      "layer": 1
+    },
+    {
+      "x_pos": 1050,
+      "y_pos": 570,
+      "x_size": 890,
+      "y_size": 50,
+      "color": [50, 50, 50],
+      "layer": 1
+    },
+    {
+      "x_pos": 80,
+      "y_pos": 340,
+      "x_size": 1785,
+      "y_size": 50,
+      "color": [50, 50, 50],
+      "layer": 1
+    },
+    {
+      "x_pos": 0,
+      "y_pos": 110,
+      "x_size": 850,
+      "y_size": 50,
+      "color": [50, 50, 50],
+      "layer": 1
+    },
+    {
+      "x_pos": 1050,
+      "y_pos": 110,
+      "x_size": 890,
+      "y_size": 50,
+      "color": [50, 50, 50],
+      "layer": 1
+    },
+    {
+      "x_pos": 730,
+      "y_pos": 920,
+      "x_size": 50,
+      "y_size": 120,
+      "color": [50, 50, 50],
+      "layer": 1
+    },
+    {
+      "x_pos": 600,
+      "y_pos": 850,
+      "x_size": 50,
+      "y_size": 120,
+      "color": [50, 50, 50],
+      "layer": 1
+    },
+    {
+      "x_pos": 470,
+      "y_pos": 920,
+      "x_size": 50,
+      "y_size": 120,
+      "color": [50, 50, 50],
+      "layer": 1
+    },
+    {
+      "x_pos": 340,
+      "y_pos": 850,
+      "x_size": 50,
+      "y_size": 120,
+      "color": [50, 50, 50],
+      "layer": 1
+    },
+    {
+      "x_pos": 210,
+      "y_pos": 920,
+      "x_size": 50,
+      "y_size": 120,
+      "color": [50, 50, 50],
+      "layer": 1
+    },
+    {
+      "x_pos": 80,
+      "y_pos": 850,
+      "x_size": 50,
+      "y_size": 120,
+      "color": [50, 50, 50],
+      "layer": 1
+    },
+    {
+      "x_pos": 730,
+      "y_pos": 690,
+      "x_size": 50,
+      "y_size": 120,
+      "color": [50, 50, 50],
+      "layer": 1
+    },
+    {
+      "x_pos": 600,
+      "y_pos": 620,
+      "x_size": 50,
+      "y_size": 120,
+      "color": [50, 50, 50],
+      "layer": 1
+    },
+    {
+      "x_pos": 470,
+      "y_pos": 690,
+      "x_size": 50,
+      "y_size": 120,
+      "color": [50, 50, 50],
+      "layer": 1
+    },
+    {
+      "x_pos": 340,
+      "y_pos": 620,
+      "x_size": 50,
+      "y_size": 120,
+      "color": [50, 50, 50],
+      "layer": 1
+    },
+    {
+      "x_pos": 210,
+      "y_pos": 690,
+      "x_size": 50,
+      "y_size": 120,
+      "color": [50, 50, 50],
+      "layer": 1
+    },
+    {
+      "x_pos": 80,
+      "y_pos": 620,
+      "x_size": 50,
+      "y_size": 120,
+      "color": [50, 50, 50],
+      "layer": 1
+    },
+    {
+      "x_pos": 730,
+      "y_pos": 460,
+      "x_size": 50,
+      "y_size": 120,
+      "color": [50, 50, 50],
+      "layer": 1
+    },
+    {
+      "x_pos": 600,
+      "y_pos": 390,
+      "x_size": 50,
+      "y_size": 120,
+      "color": [50, 50, 50],
+      "layer": 1
+    },
+    {
+      "x_pos": 470,
+      "y_pos": 460,
+      "x_size": 50,
+      "y_size": 120,
+      "color": [50, 50, 50],
+      "layer": 1
+    },
+    {
+      "x_pos": 340,
+      "y_pos": 390,
+      "x_size": 50,
+      "y_size": 120,
+      "color": [50, 50, 50],
+      "layer": 1
+    },
+    {
+      "x_pos": 210,
+      "y_pos": 460,
+      "x_size": 50,
+      "y_size": 120,
+      "color": [50, 50, 50],
+      "layer": 1
+    },
+    {
+      "x_pos": 80,
+      "y_pos": 390,
+      "x_size": 50,
+      "y_size": 120,
+      "color": [50, 50, 50],
+      "layer": 1
+    },
+    {
+      "x_pos": 730,
+      "y_pos": 230,
+      "x_size": 50,
+      "y_size": 120,
+      "color": [50, 50, 50],
+      "layer": 1
+    },
+    {
+      "x_pos": 600,
+      "y_pos": 160,
+      "x_size": 50,
+      "y_size": 120,
+      "color": [50, 50, 50],
+      "layer": 1
+    },
+    {
+      "x_pos": 470,
+      "y_pos": 230,
+      "x_size": 50,
+      "y_size": 120,
+      "color": [50, 50, 50],
+      "layer": 1
+    },
+    {
+      "x_pos": 340,
+      "y_pos": 160,
+      "x_size": 50,
+      "y_size": 120,
+      "color": [50, 50, 50],
+      "layer": 1
+    },
+    {
+      "x_pos": 210,
+      "y_pos": 230,
+      "x_size": 50,
+      "y_size": 120,
+      "color": [50, 50, 50],
+      "layer": 1
+    },
+    {
+      "x_pos": 80,
+      "y_pos": 160,
+      "x_size": 50,
+      "y_size": 120,
+      "color": [50, 50, 50],
+      "layer": 1
+    },
+
+
+
+    {
+      "x_pos": 1165,
+      "y_pos": 920,
+      "x_size": 50,
+      "y_size": 120,
+      "color": [50, 50, 50],
+      "layer": 1
+    },
+    {
+      "x_pos": 1295,
+      "y_pos": 850,
+      "x_size": 50,
+      "y_size": 120,
+      "color": [50, 50, 50],
+      "layer": 1
+    },
+    {
+      "x_pos": 1425,
+      "y_pos": 920,
+      "x_size": 50,
+      "y_size": 120,
+      "color": [50, 50, 50],
+      "layer": 1
+    },
+    {
+      "x_pos": 1555,
+      "y_pos": 850,
+      "x_size": 50,
+      "y_size": 120,
+      "color": [50, 50, 50],
+      "layer": 1
+    },
+    {
+      "x_pos": 1685,
+      "y_pos": 920,
+      "x_size": 50,
+      "y_size": 120,
+      "color": [50, 50, 50],
+      "layer": 1
+    },
+    {
+      "x_pos": 1815,
+      "y_pos": 850,
+      "x_size": 50,
+      "y_size": 120,
+      "color": [50, 50, 50],
+      "layer": 1
+    },
+    {
+      "x_pos": 1165,
+      "y_pos": 690,
+      "x_size": 50,
+      "y_size": 120,
+      "color": [50, 50, 50],
+      "layer": 1
+    },
+    {
+      "x_pos": 1295,
+      "y_pos": 620,
+      "x_size": 50,
+      "y_size": 120,
+      "color": [50, 50, 50],
+      "layer": 1
+    },
+    {
+      "x_pos": 1425,
+      "y_pos": 690,
+      "x_size": 50,
+      "y_size": 120,
+      "color": [50, 50, 50],
+      "layer": 1
+    },
+    {
+      "x_pos": 1555,
+      "y_pos": 620,
+      "x_size": 50,
+      "y_size": 120,
+      "color": [50, 50, 50],
+      "layer": 1
+    },
+    {
+      "x_pos": 1685,
+      "y_pos": 690,
+      "x_size": 50,
+      "y_size": 120,
+      "color": [50, 50, 50],
+      "layer": 1
+    },
+    {
+      "x_pos": 1815,
+      "y_pos": 620,
+      "x_size": 50,
+      "y_size": 120,
+      "color": [50, 50, 50],
+      "layer": 1
+    },
+    {
+      "x_pos": 1165,
+      "y_pos": 460,
+      "x_size": 50,
+      "y_size": 120,
+      "color": [50, 50, 50],
+      "layer": 1
+    },
+    {
+      "x_pos": 1295,
+      "y_pos": 390,
+      "x_size": 50,
+      "y_size": 120,
+      "color": [50, 50, 50],
+      "layer": 1
+    },
+    {
+      "x_pos": 1425,
+      "y_pos": 460,
+      "x_size": 50,
+      "y_size": 120,
+      "color": [50, 50, 50],
+      "layer": 1
+    },
+    {
+      "x_pos": 1555,
+      "y_pos": 390,
+      "x_size": 50,
+      "y_size": 120,
+      "color": [50, 50, 50],
+      "layer": 1
+    },
+    {
+      "x_pos": 1685,
+      "y_pos": 460,
+      "x_size": 50,
+      "y_size": 120,
+      "color": [50, 50, 50],
+      "layer": 1
+    },
+    {
+      "x_pos": 1815,
+      "y_pos": 390,
+      "x_size": 50,
+      "y_size": 120,
+      "color": [50, 50, 50],
+      "layer": 1
+    },
+    {
+      "x_pos": 1165,
+      "y_pos": 230,
+      "x_size": 50,
+      "y_size": 120,
+      "color": [50, 50, 50],
+      "layer": 1
+    },
+    {
+      "x_pos": 1295,
+      "y_pos": 160,
+      "x_size": 50,
+      "y_size": 120,
+      "color": [50, 50, 50],
+      "layer": 1
+    },
+    {
+      "x_pos": 1425,
+      "y_pos": 230,
+      "x_size": 50,
+      "y_size": 120,
+      "color": [50, 50, 50],
+      "layer": 1
+    },
+    {
+      "x_pos": 1555,
+      "y_pos": 160,
+      "x_size": 50,
+      "y_size": 120,
+      "color": [50, 50, 50],
+      "layer": 1
+    },
+    {
+      "x_pos": 1685,
+      "y_pos": 230,
+      "x_size": 50,
+      "y_size": 120,
+      "color": [50, 50, 50],
+      "layer": 1
+    },
+    {
+      "x_pos": 1815,
+      "y_pos": 160,
+      "x_size": 50,
+      "y_size": 120,
+      "color": [50, 50, 50],
+      "layer": 1
+    }
+  ],
+  "players": [
+    {
+      "x_pos": 900,
+      "y_pos": 950
+    },
+    {
+      "x_pos": 1050,
+      "y_pos": 950
+    },
+    {
+      "x_pos": 900,
+      "y_pos": 950
+    },
+    {
+      "x_pos": 1050,
+      "y_pos": 950
+    }
+  ],
+  "card": [
+    {
+      "x_pos": 960,
+      "y_pos": 100,
+      "layer": 1,
+      "type": 1,
+      "color": [150, 0, 150]
+    }
+  ]
+}
