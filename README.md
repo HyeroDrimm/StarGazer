@@ -1,9 +1,16 @@
 # StarGazer
 
-Autorzy i wkład:
-Wojtek Wroński (dużo)
-Bogusia Klimczak (muzyka i kilka skryptów)
-Kuba Pajewski (projekt poziomów i grafika)
-Kajetan Woskrasiński (fizyka i gwiazdy w tle)
+A little Platformer made using Python and Pygame for school project
 
-Link do dokumentu z synaxem pythona: https://docs.google.com/document/d/1P7EArbZeK0QM3_1Y6PDePnqRCe7fy2ea11xNPv-MYFo/edit?usp=sharing
+Got 3 A's from it so its worth something ;P
+## Running:
+Have to have Pygame library isntaled adn using Python 3.7.7
+## Game Rules:
+
+Up to 4 players can play using WASD, arrow keys, IJKL, and numpad
+
+Who will have most pickups wins!
+
+## Links:
+
+Pygame: https://www.pygame.org/news
