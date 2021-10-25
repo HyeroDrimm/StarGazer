@@ -1,10 +1,10 @@
 # StarGazer
 
-A little Platformer made using Python and Pygame for school project
+A little Platformer made using Python and Pygame, for school project, in a group of 4 members
 
-Got 3 A's from it so its worth something ;P
+Got 3 A's from it, so it's worth something ;P
 ## Running:
-Have to have Pygame library isntaled adn using Python 3.7.7
+You have to have Pygame library instaled adn using Python 3.7.7
 ## Game Rules:
 
 Up to 4 players can play using WASD, arrow keys, IJKL, and numpad
